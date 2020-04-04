@@ -20,5 +20,20 @@ namespace Ayx.AudioVisualization.Core.Drawer
         {
 
         }
+
+        public void DrawVerticalLine(int x, int y1, int y2, byte colorIndex)
+        {
+
+        }
+
+        public void DrawHorizontalLine(int x1, int x2, int y, byte colorIndex)
+        {
+
+        }
+
+        public void DrawRectangle(int left, int top, int width, int height, byte colorIndex)
+        {
+
+        }
     }
 }

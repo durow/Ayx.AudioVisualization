@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayx.AudioVisualization.NA",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayx.AudioVisualization.WinForm", "Ayx.AudioVisualization.WinForm\Ayx.AudioVisualization.WinForm.csproj", "{D38AB300-3D00-47B1-BDE0-AC765206234F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayx.AudioVisualization.CoreTests", "Ayx.AudioVisualization.CoreTests\Ayx.AudioVisualization.CoreTests.csproj", "{6AE2232B-8781-47B3-AE4B-461B591FE0BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D38AB300-3D00-47B1-BDE0-AC765206234F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D38AB300-3D00-47B1-BDE0-AC765206234F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D38AB300-3D00-47B1-BDE0-AC765206234F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE2232B-8781-47B3-AE4B-461B591FE0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE2232B-8781-47B3-AE4B-461B591FE0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE2232B-8781-47B3-AE4B-461B591FE0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE2232B-8781-47B3-AE4B-461B591FE0BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

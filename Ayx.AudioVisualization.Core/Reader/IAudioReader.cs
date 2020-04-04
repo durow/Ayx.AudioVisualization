@@ -7,5 +7,6 @@ namespace Ayx.AudioVisualization.Core
 {
     public interface IAudioReader
     {
+        AudioInfo ReadFromFile(string filename);
     }
 }

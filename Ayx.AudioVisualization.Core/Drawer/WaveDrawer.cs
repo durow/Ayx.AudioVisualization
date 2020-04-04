@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Ayx.AudioVisualization.Core
 {
-    public interface IRender
+    public class WaveDrawer
     {
     }
 }
