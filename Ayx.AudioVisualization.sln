@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ayx.AudioVisualization.Core", "Ayx.AudioVisualization.Core\Ayx.AudioVisualization.Core.csproj", "{FA2B4AD4-0EB0-4B45-9F89-55698BC23070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTest", "WpfTest\WpfTest.csproj", "{2166DE7F-2301-4017-BB78-825B817E0021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayx.AudioVisualization.WPF", "Ayx.AudioVisualization.WPF\Ayx.AudioVisualization.WPF.csproj", "{7B92BD1B-9B8C-47BD-B2CC-585BE4F0E174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayx.AudioVisualization.NA", "Ayx.AudioVisualization.NA\Ayx.AudioVisualization.NA.csproj", "{740795B2-3E1E-4F61-8D41-AB42DBEB9633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ayx.AudioVisualization.WinForm", "Ayx.AudioVisualization.WinForm\Ayx.AudioVisualization.WinForm.csproj", "{D38AB300-3D00-47B1-BDE0-AC765206234F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2B4AD4-0EB0-4B45-9F89-55698BC23070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2B4AD4-0EB0-4B45-9F89-55698BC23070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2B4AD4-0EB0-4B45-9F89-55698BC23070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2B4AD4-0EB0-4B45-9F89-55698BC23070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2166DE7F-2301-4017-BB78-825B817E0021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2166DE7F-2301-4017-BB78-825B817E0021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2166DE7F-2301-4017-BB78-825B817E0021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2166DE7F-2301-4017-BB78-825B817E0021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B92BD1B-9B8C-47BD-B2CC-585BE4F0E174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B92BD1B-9B8C-47BD-B2CC-585BE4F0E174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B92BD1B-9B8C-47BD-B2CC-585BE4F0E174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B92BD1B-9B8C-47BD-B2CC-585BE4F0E174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740795B2-3E1E-4F61-8D41-AB42DBEB9633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740795B2-3E1E-4F61-8D41-AB42DBEB9633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740795B2-3E1E-4F61-8D41-AB42DBEB9633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740795B2-3E1E-4F61-8D41-AB42DBEB9633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38AB300-3D00-47B1-BDE0-AC765206234F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38AB300-3D00-47B1-BDE0-AC765206234F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38AB300-3D00-47B1-BDE0-AC765206234F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38AB300-3D00-47B1-BDE0-AC765206234F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8D01F7-9DD3-499E-B7BE-B6709C4CCD52}
+	EndGlobalSection
+EndGlobal
